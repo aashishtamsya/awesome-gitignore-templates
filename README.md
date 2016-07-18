@@ -10,8 +10,6 @@ For more information :
 
 ##Gitignore Pattern Format
 
-PATTERN FORMAT
-
 * A blank line matches no files, so it can serve as a separator for readability.
 * A line starting with `#` serves as a comment.
 * An optional prefix `!` which negates the pattern; any matching file excluded by a previous pattern will become included again. If a negated pattern matches, this will override lower precedence patterns sources.
