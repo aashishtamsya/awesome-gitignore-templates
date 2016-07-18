@@ -4,15 +4,18 @@
 
 1. Fork it!
 
-2. Create your feature branch: ```sh
+2. Create your feature branch: 
+```sh
 $ git checkout -b my-new-feature 
 ```
 
-3. Commit your changes: ```sh
+3. Commit your changes: 
+```sh
 $ git commit -am 'Add some feature' 
 ```
 
-4. Push to the branch: ```sh
+4. Push to the branch: 
+```sh
 $ git push origin my-new-feature 
 ```
 
