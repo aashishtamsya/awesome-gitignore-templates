@@ -1,14 +1,23 @@
-#Collection of '.gitignore' Templates
+# Awesome Gitignore Templates
 
 Create a file in your repository named .gitignore, Git uses it to determine which files and directories to ignore, before you make a commit. A .gitignore file should be committed into your repository, in order to share the ignore rules with any other users that clone the repository.
 
-For more information :
+# Contents
+
+-	[General Information](#general-information)
+-	[Gitignore Pattern Format](#gitignore-pattern-format)
+-	[Gitignore Files](#gitignore-files)
+-	[Contribution](#contribution)
+-	[License](#license)
+
+
+## General Information
 
 * [What is `.gitignore` file](https://help.github.com/articles/ignoring-files/)
 * [Git - gitignore Documentation](https://git-scm.com/docs/gitignore)
 * [How to create a gitignore file](https://help.github.com/articles/ignoring-files/)
 
-##Gitignore Pattern Format
+## Gitignore Pattern Format
 
 * A blank line matches no files, so it can serve as a separator for readability.
 * A line starting with `#` serves as a comment.
@@ -18,7 +27,10 @@ For more information :
 * Otherwise, git treats the pattern as a shell glob suitable for consumption by fnmatch(3) with the `FNM_PATHNAME` flag: wildcards in the pattern will not match a `/` in the pathname. For example, `Documentation/*.html` matches `Documentation/git.html` but not `Documentation/ppc/ppc.html` or `tools/perf/Documentation/perf.html`.
 * A leading slash matches the beginning of the pathname. For example, `/*.c` matches `cat-file.c` but not `mozilla-sha1/sha1.c`.
 
-##Contribution
+## Gitignore Files
+ 
+
+## Contribution
 
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
@@ -26,5 +38,5 @@ For more information :
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request 😊 😇
 
-##License
+## License
 [CC0-1.0](/LICENSE)
