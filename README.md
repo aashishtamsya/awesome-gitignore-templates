@@ -1,7 +1,7 @@
 # Awesome Gitignore Templates
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/aashishtamsya/awesome-gitignore-templates)
-[![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
+[![license](https://img.shields.io/badge/license-CC0%201.0-blue.svg)](LICENSE.md)
 
 A curated collection of useful gitignore templates for different programming languages while pushing your code to git. 😊 📝
 
