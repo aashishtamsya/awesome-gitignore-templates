@@ -48,4 +48,5 @@ A curated collection of useful gitignore templates for different programming lan
 5. Submit a pull request 😊 😇
 
 ## License
-[CC0-1.0](/LICENSE)
+
+[![CC0-1.0](/Resources/cc-logo.jpg)](/LICENSE)
