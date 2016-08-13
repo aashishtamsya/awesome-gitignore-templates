@@ -49,4 +49,4 @@ A curated collection of useful gitignore templates for different programming lan
 
 ## License
 
-[![CC0-1.0](/Resources/cc-logo.jpg)](/LICENSE)
+[![CC0-1.0](/Resources/cc-logo.jpg)](/LICENSE.md)
