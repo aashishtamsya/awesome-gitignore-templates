@@ -1,0 +1,10 @@
+## Ruby templates and Compiled files
+*.gem
+*.rbc
+/.config
+
+## RubyMotion:
+.dat*
+.repl_history
+build/
+*.bridgesupport
