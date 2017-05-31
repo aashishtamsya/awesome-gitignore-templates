@@ -8,6 +8,7 @@ A curated collection of useful gitignore templates for different programming lan
 # Contents
 
 -	[Usage](#usage)
+-	[Contributors](#contributors)
 -	[General Information](#general-information)
 -	[Gitignore Pattern Format](#gitignore-pattern-format)
 -	[Gitignore Files](#gitignore-files)
@@ -19,6 +20,11 @@ A curated collection of useful gitignore templates for different programming lan
 *	Create a file in your repository named .gitignore
 *	Git uses it to determine which files and directories to ignore, before you make a commit. 
 *	A .gitignore file should be committed into your repository, in order to share the ignore rules with any other users that clone the repository.
+
+## Contributors
+
+- Python : [Sameera S](https://github.com/sam95) sameera1595@gmail.com
+
 
 ## General Information
 
