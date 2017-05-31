@@ -23,7 +23,8 @@ A curated collection of useful gitignore templates for different programming lan
 
 ## Contributors
 
-- Python : [Sameera S](https://github.com/sam95) sameera1595@gmail.com
+- Python Gitignore Template : [Sameera S](https://github.com/sam95), sameera1595@gmail.com
+- Ruby Gitignore Template : [Sameera S](https://github.com/sam95), sameera1595@gmail.com
 
 
 ## General Information
