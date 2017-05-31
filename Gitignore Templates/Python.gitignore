@@ -1,0 +1,24 @@
+
+# Compiled byte codes
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django:
+*.log
+local_settings.py
+
+# Flask:
+instance/
+.webassets-cache
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# dotenv
+.env
+
+# virtualenv
+.venv
+venv/
+ENV/
